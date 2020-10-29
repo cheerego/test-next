@@ -27,7 +27,7 @@ const Home = () => (
             </g>
         </svg>
           <h1 className="title">
-            Greetings from Next.js!
+            Hi, greetings from Next.js!
           </h1>
           <h2 className="subtitle">
           The web app is hosted on Aliyun <a href="https://www.aliyun.com/product/fc" target="_blank">FunctionCompute</a>.
