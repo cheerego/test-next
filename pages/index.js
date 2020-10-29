@@ -30,7 +30,7 @@ const Home = () => (
             Hi, greetings from Next.js!
           </h1>
           <h2 className="subtitle">
-          The web app is hosted on Serverless SSR <a href="https://www.aliyun.com/product/fc" target="_blank">FunctionCompute</a>.
+          The web app is hosted on Tencent <a href="https://www.aliyun.com/product/fc" target="_blank">Serverless SSR</a>.
           </h2>
           <div className="links">
             <a
